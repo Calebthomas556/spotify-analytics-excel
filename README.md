@@ -33,3 +33,9 @@ spotify-analytics-exel/
     Streaming_History_Video_2024-2025.json
     ReadMeFirst_ExtendedStreamingHistory.pdf
 ```
+
+## What I Learned
+- Using Excel to explore and summarize real-world datasets
+- Building pivot tables to answer analytical questions
+- Creating clear charts to communicate insights
+- Translating raw data into actionable observations
